@@ -1,6 +1,6 @@
 <h1> API Penna</h1>
-## Teste técnico para vaga na Ingaia
+<h2> Teste técnico para vaga na Ingaia
 
-Envie uma requisição post para 'https:api-teste-tecnico-ingaia-penna.herokuapp.com/cidade/{cidade_request}'
+<p>Envie uma requisição post para 'https:api-teste-tecnico-ingaia-penna.herokuapp.com/cidade/{<span style="color:red;">cidade_request}'</span><p>
 
-(Teste em)[https://codepen.io/Pennoso/pen/abZJZNd]
+Clique aqui para testar no <a href="https://codepen.io/Pennoso/pen/abZJZNd">Codepen</a>
